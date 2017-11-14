@@ -1,0 +1,3 @@
+eclipse.preferences.version=1
+validator.Checked=resouse/springmvc-servlet.xml,resouse/applicationContext.xml,resouse/mybatis-config.xml,src/dao/qualityMapper.xml
+validator.Unchecked=
