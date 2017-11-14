@@ -73,7 +73,7 @@ public class qualityController {
 	
 	int num=qs.insert(q);
 	if(num>0){
-		out.print("");
+		out.print("1111");
 	}else{
 		out.print("");
 	}
